@@ -14,9 +14,9 @@
 - 𝗿𝗲𝘀𝘁𝗮𝗿𝘁
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Payal&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
 
 # Deploy To Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXBANALL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Payal8800/DaizyBanAllRepo)
 
